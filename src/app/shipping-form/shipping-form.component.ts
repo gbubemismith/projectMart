@@ -15,7 +15,7 @@ import { OrderService } from '../services/order.service';
 export class ShippingFormComponent implements OnInit, OnDestroy {
 
   @Input('cart') cart: ShoppingCart;
-  shipping = {};
+  shipping: any = {};
   userSubscription: Subscription;
   userId: string;
   
