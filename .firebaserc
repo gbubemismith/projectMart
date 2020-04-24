@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "projectmart-91979": {
+      "hosting": {
+        "projectMart": [
+          "projectmart-91979"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "projectmart-91979"
+  }
+}
